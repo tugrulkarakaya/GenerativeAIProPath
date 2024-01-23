@@ -69,7 +69,6 @@ Learn about generative models such as Generative Adversarial Networks (GANs), Va
   - Image Generation
   - Text Generation
 - **Courses**
-  - [LinkedIn Learning - Generative AI and Large Language Models](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models)
   - [Coursera - Generative AI with LLMs](https://www.coursera.org/learn/generative-ai-with-llms)
   - [Coursera - GANs Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
   - [Hugging Face - Transformers Documentation](https://huggingface.co/docs/transformers/index)
@@ -83,7 +82,7 @@ Dive into the specifics of language models, especially transformer-based models 
 - **Tokenization and Embeddings**
 - **Limitations and Ethical Considerations**
 - **Courses**
-  - [LinkedIn LEarning - Generative AI: Working with Large Language Models](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models)
+  - [LinkedIn Learning - Generative AI: Working with Large Language Models](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models)
   - [GitHub - LLM Course](https://github.com/mlabonne/llm-course)
   - [DataCamp - LLMs Concepts](https://app.datacamp.com/learn/courses/large-language-models-llms-concepts)
   - [DataCamp Blog - Top Open Source LLMs](https://www.datacamp.com/blog/top-open-source-llms)
