@@ -138,3 +138,21 @@ The field of AI is rapidly evolving. Stay updated with the latest research paper
   - Conferences
   - Meetups
 
+## 10. Mathematical Foundations
+Strengthen your knowledge in linear algebra, probability, statistics, and calculus, as they are fundamental in understanding how algorithms work.
+
+- **Linear Algebra (Vectors, Matrices)**
+  - [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+  - [Coursera - Linear Algebra with Python Intro](https://www.coursera.org/learn/linear-algebra-python-intro)
+
+- **Probability Theory and Statistics**
+  - [Khan Academy - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+  - [Coursera - Statistics with Python (Free)](https://www.coursera.org/specializations/statistics-with-python)
+  - [DataCamp - Introduction to Statistics (Paid)](https://app.datacamp.com/learn/courses/introduction-to-statistics)
+  - [DataCamp - Statistical Thinking in Python 1 and 2 (Paid)](https://app.datacamp.com/learn/courses/statistical-thinking-in-python-part-1)
+
+- **Calculus (Derivatives, Integrals)**
+  
+- **Optimization (Gradient Descent)**
+  
+- **Information Theory (Entropy, Information Gain)**
