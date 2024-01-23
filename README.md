@@ -83,6 +83,7 @@ Dive into the specifics of language models, especially transformer-based models 
 - **Tokenization and Embeddings**
 - **Limitations and Ethical Considerations**
 - **Courses**
+  - [Generative AI: Working with Large Language Models](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models)
   - [GitHub - LLM Course](https://github.com/mlabonne/llm-course)
   - [DataCamp - LLMs Concepts](https://app.datacamp.com/learn/courses/large-language-models-llms-concepts)
   - [DataCamp Blog - Top Open Source LLMs](https://www.datacamp.com/blog/top-open-source-llms)
