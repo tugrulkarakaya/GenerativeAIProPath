@@ -1,7 +1,7 @@
 # Generative AI Pro Path
 Embark on a journey to master Generative AI with GenerativeAIProPath. Explore tutorials, research, and projects in a comprehensive hub designed for learners at all levels. Unlock your potential and innovate in the field of AI. Start your path to expertise today!
 
-
+https://github.com/mlabonne/llm-course?tab=readme-ov-file 
 ## 1. Python Programming
 As Python is the primary language used in AI and machine learning, gaining proficiency in it will be crucial. Focus on understanding its syntax, libraries, and best practices.
 - **Syntax and Semantics**
