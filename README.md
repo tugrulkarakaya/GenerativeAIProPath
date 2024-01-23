@@ -18,7 +18,7 @@ As Python is the primary language used in AI and machine learning, gaining profi
 - **Best Coding Practices**
   - PEP 8
 - **Courses**
-  - [Learn Python - Full Course for Beginner](https://www.youtube.com/watch?v=rfscVS0vtbw) 
+  - [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) 
 
 ## 2. Machine Learning Fundamentals
 Understand the basics of machine learning, including supervised, unsupervised, and reinforcement learning. Study key concepts such as regression, classification, clustering, and neural networks.
