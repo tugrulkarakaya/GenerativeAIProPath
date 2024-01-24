@@ -20,6 +20,7 @@ As Python is the primary language used in AI and machine learning, gaining profi
 - **Courses**
   - [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
   - [Certified Entry-Level Python Programmer ](https://www.linkedin.com/learning/cert-prep-certified-entry-level-python-programmer-pcep-30-02)
+  - [Advanced Python](https://www.linkedin.com/learning/advanced-python)
 - **Books**
   - [Fast Python](https://www.manning.com/books/fast-python)
 
