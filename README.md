@@ -44,6 +44,8 @@ Understand the basics of machine learning, including supervised, unsupervised, a
 - **Courses**
   - [YouTube - ML Basics](https://www.youtube.com/watch?v=V_xro1bcAuA)
   - [Coursera - ML Introduction Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+- **Books**
+  - [🚀Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
 ## 3. Deep Learning
 Deepen your knowledge of deep learning architectures like Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Transformers. Familiarize yourself with libraries like TensorFlow and PyTorch.
