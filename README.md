@@ -18,11 +18,11 @@ As Python is the primary language used in AI and machine learning, gaining profi
 - **Best Coding Practices**
   - PEP 8
 - **Courses**
-  - [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
-  - [Certified Entry-Level Python Programmer ](https://www.linkedin.com/learning/cert-prep-certified-entry-level-python-programmer-pcep-30-02)
-  - [Advanced Python](https://www.linkedin.com/learning/advanced-python)
+  - [🔰Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
+  - [🔰Certified Entry-Level Python Programmer ](https://www.linkedin.com/learning/cert-prep-certified-entry-level-python-programmer-pcep-30-02)
+  - [🚀Advanced Python](https://www.linkedin.com/learning/advanced-python)
 - **Books**
-  - [Fast Python](https://www.manning.com/books/fast-python)
+  - [🚀Fast Python](https://www.manning.com/books/fast-python)
 
 ## 2. Machine Learning Fundamentals
 Understand the basics of machine learning, including supervised, unsupervised, and reinforcement learning. Study key concepts such as regression, classification, clustering, and neural networks.
@@ -160,3 +160,11 @@ Strengthen your knowledge in linear algebra, probability, statistics, and calcul
 - **Optimization (Gradient Descent)**
   
 - **Information Theory (Entropy, Information Gain)**
+
+
+
+## Difficulty Level Legend:
+
+- 🔰 Basic Level - This content is suitable for beginners with little to no prior knowledge in the subject.
+- 🌟 Intermediate Level - This content is suitable for those who have a basic understanding of the subject and want to expand their knowledge.
+- 🚀 Advanced Level - This content is suitable for those who already have a solid understanding of the subject and are looking to master it.
