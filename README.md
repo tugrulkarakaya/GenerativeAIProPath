@@ -42,7 +42,7 @@ Understand the basics of machine learning, including supervised, unsupervised, a
 - **Bias-Variance Tradeoff**
 - **Feature Engineering**
 - **Courses**
-  - [YouTube - ML Basics](https://www.youtube.com/watch?v=V_xro1bcAuA)
+  - [YouTube - ML Basics](https://www.youtube.com/watch?v=V_xro1bcAuA)  
   - [Coursera - ML Introduction Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 - **Books**
   - [🚀Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
@@ -62,6 +62,7 @@ Deepen your knowledge of deep learning architectures like Convolutional Neural N
   - Dropout
   - Batch Normalization
 - **Courses**
+  - [Learn PyTorch for Deep Learning: Zero to Mastery](https://www.learnpytorch.io/)  
   - [Coursera - Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 ## 4. Generative AI
